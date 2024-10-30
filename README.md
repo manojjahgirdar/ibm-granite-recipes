@@ -1,4 +1,4 @@
-# ibm-granite-recipes
+# IBM Granite recipes
 Granite recipes
 
 - [Travel planner Agent]()
